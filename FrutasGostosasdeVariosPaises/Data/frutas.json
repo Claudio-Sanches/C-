@@ -1,0 +1,62 @@
+[
+  {
+    "Nome": "Maçã",
+    "PaisOrigem": "Brasil",
+    "PrecoUnitario": 2.5,
+    "QuantidadeCaixa": 10
+  },
+  {
+    "Nome": "Banana",
+    "PaisOrigem": "Equador",
+    "PrecoUnitario": 1.8,
+    "QuantidadeCaixa": 12
+  },
+  {
+    "Nome": "Laranja",
+    "PaisOrigem": "Espanha",
+    "PrecoUnitario": 2.2,
+    "QuantidadeCaixa": 15
+  },
+  {
+    "Nome": "Uva",
+    "PaisOrigem": "Chile",
+    "PrecoUnitario": 3.5,
+    "QuantidadeCaixa": 8
+  },
+  {
+    "Nome": "Abacaxi",
+    "PaisOrigem": "Costa Rica",
+    "PrecoUnitario": 4.0,
+    "QuantidadeCaixa": 6
+  },
+  {
+    "Nome": "Manga",
+    "PaisOrigem": "Índia",
+    "PrecoUnitario": 3.0,
+    "QuantidadeCaixa": 10
+  },
+  {
+    "Nome": "Pera",
+    "PaisOrigem": "Argentina",
+    "PrecoUnitario": 2.8,
+    "QuantidadeCaixa": 9
+  },
+  {
+    "Nome": "Kiwi",
+    "PaisOrigem": "Nova Zelândia",
+    "PrecoUnitario": 5.0,
+    "QuantidadeCaixa": 7
+  },
+  {
+    "Nome": "Melancia",
+    "PaisOrigem": "Brasil",
+    "PrecoUnitario": 6.0,
+    "QuantidadeCaixa": 4
+  },
+  {
+    "Nome": "Morango",
+    "PaisOrigem": "Estados Unidos",
+    "PrecoUnitario": 4.5,
+    "QuantidadeCaixa": 14
+  }
+]
